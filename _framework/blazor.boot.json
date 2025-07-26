@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SRCardEvaluator.Browser",
   "resources": {
-    "hash": "sha256-2dYK/RjrgyNR8wGdeMn28XTNZPO9kzdTXNUhErtKLNc=",
+    "hash": "sha256-/QE1TWAifLecXHDeaVjR1c6MWrzmfNbmNEwDURIQq9o=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.2l29b3ptxd.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.ys27yqkevq.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -20,7 +20,7 @@
       "Microsoft.JSInterop.426305nhc4.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.heoad7mujs.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
       "Microsoft.Win32.Primitives.pvmsuhdlt3.wasm": "Microsoft.Win32.Primitives.wasm",
-      "netstandard.szt21283ph.wasm": "netstandard.wasm",
+      "netstandard.f934dx02sw.wasm": "netstandard.wasm",
       "OpenSilver.Browser.12buieeoro.wasm": "OpenSilver.Browser.wasm",
       "OpenSilver.Controls.Data.DataForm.Toolkit.7oq8ec8oon.wasm": "OpenSilver.Controls.Data.DataForm.Toolkit.wasm",
       "OpenSilver.Controls.Data.Input.o4pxqj1g23.wasm": "OpenSilver.Controls.Data.Input.wasm",
@@ -41,8 +41,8 @@
       "OpenSilver.Themes.Modern.za7m6e85vc.wasm": "OpenSilver.Themes.Modern.wasm",
       "OpenSilver.66l1wu1ud2.wasm": "OpenSilver.wasm",
       "OpenSilver.WebAssembly.s234qk5hpq.wasm": "OpenSilver.WebAssembly.wasm",
-      "SRCardEvaluator.Browser.74qwk0mbo3.wasm": "SRCardEvaluator.Browser.wasm",
-      "SRCardEvaluator.sx2p31gl0s.wasm": "SRCardEvaluator.wasm",
+      "SRCardEvaluator.Browser.560oio3o50.wasm": "SRCardEvaluator.Browser.wasm",
+      "SRCardEvaluator.v7d4px6v43.wasm": "SRCardEvaluator.wasm",
       "System.Buffers.zwvhe4goip.wasm": "System.Buffers.wasm",
       "System.Collections.Concurrent.xou7g5fra9.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.ax5w15bzd8.wasm": "System.Collections.Immutable.wasm",
@@ -76,7 +76,7 @@
       "System.Net.WebClient.mg8zawtrj6.wasm": "System.Net.WebClient.wasm",
       "System.Net.WebHeaderCollection.mpvm2zkyp1.wasm": "System.Net.WebHeaderCollection.wasm",
       "System.ObjectModel.rwqnmko9z9.wasm": "System.ObjectModel.wasm",
-      "System.Private.CoreLib.vffu15k48o.wasm": "System.Private.CoreLib.wasm",
+      "System.Private.CoreLib.ttpw0ukq2r.wasm": "System.Private.CoreLib.wasm",
       "System.Private.DataContractSerialization.aa6mqlvurq.wasm": "System.Private.DataContractSerialization.wasm",
       "System.Private.Uri.l3snu8t9ft.wasm": "System.Private.Uri.wasm",
       "System.Private.Xml.Linq.0rxkpjnxd3.wasm": "System.Private.Xml.Linq.wasm",
@@ -120,7 +120,7 @@
       "System.Xml.ReaderWriter.en62qbmm9c.wasm": "System.Xml.ReaderWriter.wasm",
       "System.Xml.XmlSerializer.ncwu84ch43.wasm": "System.Xml.XmlSerializer.wasm",
       "dotnet.native.o3bovj63cy.js": "dotnet.native.js",
-      "dotnet.native.abigmu23g7.wasm": "dotnet.native.wasm",
+      "dotnet.native.f59gxh6vup.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.runtime.593bvuk5yc.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
@@ -147,7 +147,7 @@
       "dotnet.runtime.593bvuk5yc.js": "sha256-x+PnWU47EIr/zL3xxqIUMDJi/dy5904TVGunDqCvjIY="
     },
     "wasmNative": {
-      "dotnet.native.abigmu23g7.wasm": "sha256-tq6zP1KTODwGNErALJSdiioz76XNxSSleFSWJ0Xsol8="
+      "dotnet.native.f59gxh6vup.wasm": "sha256-U1ckMuoKAgptAAPCLDfROt6CzMiABu3m+T07oyY1JaM="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -155,7 +155,7 @@
       "icudt_no_CJK.lfu7j35m59.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "coreAssembly": {
-      "System.Private.CoreLib.vffu15k48o.wasm": "sha256-VUF9Q3RJa7iW51S9d5FO8JtIwb2N6cL9xHnXb471GuU=",
+      "System.Private.CoreLib.ttpw0ukq2r.wasm": "sha256-wUJUGktiNYZrVR422qDxFwmALx8WwU4wysOoxNJTatM=",
       "System.Runtime.InteropServices.JavaScript.as0kmkmjab.wasm": "sha256-+gb3S/QUVlppk4dNLnS4hPIGW/T1D71zwXg+tpR2V7Y="
     },
     "assembly": {
@@ -176,7 +176,7 @@
       "Microsoft.JSInterop.426305nhc4.wasm": "sha256-lNqP2ot1f2PhPr/5ZgFueuYFhUgz/pVAaqmi0u4H8Lo=",
       "Microsoft.JSInterop.WebAssembly.heoad7mujs.wasm": "sha256-99wG3VH14sWkwPaF5rX6YAcJvtAhDuqonwihvj2m5HA=",
       "Microsoft.Win32.Primitives.pvmsuhdlt3.wasm": "sha256-1TQykZCCq5pPA6QxHP9aOgBQyBBNHSUvnjaB1YhF7mU=",
-      "netstandard.szt21283ph.wasm": "sha256-qNJOD+2D8BKIUBQ3i0voJxXN1V+FZit90flc0ms9weY=",
+      "netstandard.f934dx02sw.wasm": "sha256-g7onKvdpI7RwsWJfVzUwjFa5wlLC/ttsPCLWh1GY3ZQ=",
       "OpenSilver.Browser.12buieeoro.wasm": "sha256-eb276duggNp8dcDV3tTz/tewjs8QVoZ+XD/sPqF7ESU=",
       "OpenSilver.Controls.Data.DataForm.Toolkit.7oq8ec8oon.wasm": "sha256-+chQT77Qr7+YdS5Yyyyma5tQaVxIlT3r2/NiRr6Ra8c=",
       "OpenSilver.Controls.Data.Input.o4pxqj1g23.wasm": "sha256-iGwSrOat4p3+sfIwnDu4nQVXNcn8Q3Q5qumyW3P5AtI=",
@@ -197,8 +197,8 @@
       "OpenSilver.Themes.Modern.za7m6e85vc.wasm": "sha256-e0zNK4NSEsY195m0k6OqA+oy/N1smQ15fIj+XvWzQt0=",
       "OpenSilver.66l1wu1ud2.wasm": "sha256-kvZLkdMpscCahF3UNTkUv7aHQOBL8t7uPkE2/kI4VcQ=",
       "OpenSilver.WebAssembly.s234qk5hpq.wasm": "sha256-bF0vmgZAkN7Urtd5tGZmJY4Ojov5OhqREJ/KdNyhskc=",
-      "SRCardEvaluator.Browser.74qwk0mbo3.wasm": "sha256-yf+rY/p3fVz7ppA3rG4Nh2TYEiLVKTaKp8tMzaNaGBg=",
-      "SRCardEvaluator.sx2p31gl0s.wasm": "sha256-IKLlAUmZQngRqbay0VElGIVJVta4b7tZqPmQrIYW/1w=",
+      "SRCardEvaluator.Browser.560oio3o50.wasm": "sha256-3fhln3e8Q6db7Myhnrl3nXuxYn9u5qop/iHeicnU3zU=",
+      "SRCardEvaluator.v7d4px6v43.wasm": "sha256-6xhXK38pfXIMBuwSo14s3HMCWROSHEFTWITkfCitSak=",
       "System.Buffers.zwvhe4goip.wasm": "sha256-0xnLhRtlSgJRAnlYUt/pSIGXiFsdcUBMyDrFYPFhMrg=",
       "System.Collections.Concurrent.xou7g5fra9.wasm": "sha256-33TqY/AzwsSUgVvDOmNewsK+bXOFHKzT8w3Z9KKQOXc=",
       "System.Collections.Immutable.ax5w15bzd8.wasm": "sha256-AtUE/Iiqyln2Rc/JaUWyeutj3ABLn0nw0sWalYW1G9U=",

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SRCardEvaluator.Browser",
   "resources": {
-    "hash": "sha256-WoBjvBw/eXToRSZ/QWqIigskTdH8PyaUveug/frBGQ8=",
+    "hash": "sha256-GPVZcDVP7hHlIYrPh7ebJNoMlXrBWwZWzAsV9kYeNw4=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.2l29b3ptxd.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.ys27yqkevq.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -41,8 +41,9 @@
       "OpenSilver.Themes.Modern.za7m6e85vc.wasm": "OpenSilver.Themes.Modern.wasm",
       "OpenSilver.66l1wu1ud2.wasm": "OpenSilver.wasm",
       "OpenSilver.WebAssembly.s234qk5hpq.wasm": "OpenSilver.WebAssembly.wasm",
-      "SRCardEvaluator.Browser.d8h30kecsk.wasm": "SRCardEvaluator.Browser.wasm",
-      "SRCardEvaluator.evl6987lvm.wasm": "SRCardEvaluator.wasm",
+      "SRCardEvaluator.Browser.836sr4cugq.wasm": "SRCardEvaluator.Browser.wasm",
+      "SRCardEvaluator.btll8wpcgf.wasm": "SRCardEvaluator.wasm",
+      "StarRealms.zeawe9rsr2.wasm": "StarRealms.wasm",
       "System.Buffers.2se6ygpmft.wasm": "System.Buffers.wasm",
       "System.Collections.Concurrent.r8pbmx9ywr.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.0ve5sazwu9.wasm": "System.Collections.Immutable.wasm",
@@ -197,8 +198,9 @@
       "OpenSilver.Themes.Modern.za7m6e85vc.wasm": "sha256-e0zNK4NSEsY195m0k6OqA+oy/N1smQ15fIj+XvWzQt0=",
       "OpenSilver.66l1wu1ud2.wasm": "sha256-kvZLkdMpscCahF3UNTkUv7aHQOBL8t7uPkE2/kI4VcQ=",
       "OpenSilver.WebAssembly.s234qk5hpq.wasm": "sha256-bF0vmgZAkN7Urtd5tGZmJY4Ojov5OhqREJ/KdNyhskc=",
-      "SRCardEvaluator.Browser.d8h30kecsk.wasm": "sha256-/Slht/Vv3YVYHB4v0mzN2VFJ4i7aFe/fm1wk8h0ONbU=",
-      "SRCardEvaluator.evl6987lvm.wasm": "sha256-xtLzgMKciMOEmH/q7xWNvB7OfKObeSmC4rCBv1U0Z1k=",
+      "SRCardEvaluator.Browser.836sr4cugq.wasm": "sha256-1Ng6/J0TyrdW1uD1wyMiWIdCd2Y0JY2ozF+xBMgCx4Y=",
+      "SRCardEvaluator.btll8wpcgf.wasm": "sha256-UYavbkVIqzX9OYzUEhj6nID2mlybqe1Sw4naKFlk+qQ=",
+      "StarRealms.zeawe9rsr2.wasm": "sha256-uz7m/iMN2SdUxl5XZU+kfaIsbVKr1ArIgo6sIXuRFZg=",
       "System.Buffers.2se6ygpmft.wasm": "sha256-UkIbBmZDitsAkPh0Zzu5GgOiJpKDCUxC0QLTvk/8Cto=",
       "System.Collections.Concurrent.r8pbmx9ywr.wasm": "sha256-i15jsxVsbGQWh4JWO4NgJed3nrrgcVp5PCRJSeK47ns=",
       "System.Collections.Immutable.0ve5sazwu9.wasm": "sha256-hPFaIKBR+M2Qtz8gs/DS7VBWKDgRUwvEAgBb9E+UIfg=",
